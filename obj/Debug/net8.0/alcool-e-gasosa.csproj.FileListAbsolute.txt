@@ -1,0 +1,15 @@
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\bin\Debug\net8.0\alcool-e-gasosa.exe
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\bin\Debug\net8.0\alcool-e-gasosa.deps.json
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\bin\Debug\net8.0\alcool-e-gasosa.runtimeconfig.json
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\bin\Debug\net8.0\alcool-e-gasosa.dll
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\bin\Debug\net8.0\alcool-e-gasosa.pdb
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.AssemblyInfo.cs
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.sourcelink.json
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.dll
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\refint\alcool-e-gasosa.dll
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.pdb
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\alcool-e-gasosa.genruntimeconfig.cache
+C:\Users\user\Documents\alcoolegasolina\alcool-e-gasosa\obj\Debug\net8.0\ref\alcool-e-gasosa.dll
